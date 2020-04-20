@@ -10,7 +10,8 @@ function App() {
         <p>
           Hey I'm Arjun. My site is under construction!
         </p>
-        
+        <h6>If you're looking to get in touch or just want to send me a joke, arjunnarayanasamy23@gmail.com.
+Thanks for dropping by!</h6>
       </header>
     </div>
   );
